@@ -1,0 +1,2 @@
+# ascunibuc
+arhitecturasistemelordecalcul
